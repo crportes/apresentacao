@@ -1,0 +1,26 @@
+html {
+    scroll-behavior: smooth;
+}
+
+BODY {
+    padding: 0%;
+    margin: 0%;
+    COLOR: #000;
+    BACKGROUND: #D3D3D3;
+    FONT-SIZE: 18pt;
+    font-family: Impact, Haettenschweiler, sans-serif;
+    text-indent: 1cm;
+}
+
+h1 {
+    font-size: 14pt;
+    font-family: Impact, Haettenschweiler, sans-serif;
+}
+
+H2 {
+    font-size: 14pt;
+    font-family: Impact, Haettenschweiler, sans-serif;
+    COLOR: #8A2BE2;
+}
+
+
